@@ -221,7 +221,7 @@ class _LivePageState extends State<LivePage> {
 
     final strideY = image.planes[0].bytesPerRow;
     final strideU = image.planes[1].bytesPerRow;
-    final strideV = image.planes[2].bytesPerRow;
+    // final strideV = image.planes[2].bytesPerRow;
 
     for (int y = 0; y < height; y++) {
       for (int x = 0; x < width; x++) {

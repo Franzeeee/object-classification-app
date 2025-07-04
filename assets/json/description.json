@@ -1,0 +1,14 @@
+[
+    {
+        "id": "Pen",
+        "description": "A pen is a writing instrument used to apply ink to a surface, usually paper, for writing or drawing."
+    },
+    {
+        "id": "Earphones",
+        "description": "Earphones are small audio devices worn in or over the ears to listen to sound from a device, providing a personal audio experience."
+    },
+    {
+        "id": "Hairpint",
+        "description": "A hairpin is a slender, usually metal or plastic, device used to hold hair in place, often used in hairstyles."
+    }
+]
